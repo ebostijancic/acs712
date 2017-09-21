@@ -1,7 +1,5 @@
-# A blank Mongoose OS library
-
+# Mongoose OS library for ACS712
 
 ## Overview
 
-This blank library is intended to be used as a skeleton for deleloping
-Mongoose OS libraries.
+This Mongoose OS library provides functions to read the current from a connected ACS712 Hall Effect-Based Linear Current Sensor IC.

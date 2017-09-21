@@ -1,7 +1,7 @@
 author: mongoose-os
 type: lib
-description: An empty lib that does nothing
-version: 1.0
+description: Hall Effect-Based Linear Current Sensor IC library
+version: 0.1
 
 sources:
   - src
@@ -13,4 +13,4 @@ libs:
 tags:
   - c
 
-manifest_version: 2017-05-18
+manifest_version: 2017-09-22
